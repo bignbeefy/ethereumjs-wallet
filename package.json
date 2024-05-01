@@ -15,7 +15,7 @@
     "@ethereumjs/util": "^8.0.0",
     "@scure/base": "1.1.1",
     "ethereum-cryptography": "1.2.0",
-    "js-md5": "0.7.3",
+    "js-md5": "0.8.3",
     "uuid": "8.3.2"
   },
   "devDependencies": {
